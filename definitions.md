@@ -11,23 +11,23 @@
     l'entité comprendre comment il fonctionne et le mécanisme qui le fait fonctionner
 
 # Les différents types de hackers:
-    - White hat 
-        bonne intention en voulant protéger un système
-    - Black hat
-        mauvaise intention en voulant détourner un système pour son profit
-    - Gray hat
-        il est un peut black et white hat 
-    - Sous-type de hacker
-        - Hacktivistes: groupe de hackers qui agissent pour défendre une cause 
-        - Script-kiddies : ne cherche pas à comprendre, copie juste du code des scripts sans pousser les recherche plus loin
-        - Lamers: il utilise principalement des logiciels pré-conçu a l'effet du hacking informatiques, ne conçois pas eux même des script permetant un hack
+- White hat 
+    bonne intention en voulant protéger un système
+- Black hat
+    mauvaise intention en voulant détourner un système pour son profit
+- Gray hat
+    il est un peut black et white hat 
+- Sous-type de hacker
+    - Hacktivistes: groupe de hackers qui agissent pour défendre une cause 
+    - Script-kiddies : ne cherche pas à comprendre, copie juste du code des scripts sans pousser les recherche plus loin
+    - Lamers: il utilise principalement des logiciels pré-conçu a l'effet du hacking informatiques, ne conçois pas eux même des script permetant un hack
 
 # Les différents types de hacking:
-    - Human hacking
-        faire dire des informations ou essayer de récuperer des informations par la parole
-    - Applicatif hacking
-        récuperer des données d'applications web/mobile pour la revente principalement
-    - Réseaux hacking 
-        vol de packet qui peux contenir des informations sensible à travers un réseau d'ou l'utilisation des vpn pour crypter nos paquets...
+- Human hacking
+    faire dire des informations ou essayer de récuperer des informations par la parole
+- Applicatif hacking
+    récuperer des données d'applications web/mobile pour la revente principalement
+- Réseaux hacking 
+    vol de packet qui peux contenir des informations sensible à travers un réseau d'ou l'utilisation des vpn pour crypter nos paquets...
     
 # Les régles du hacking éthique
