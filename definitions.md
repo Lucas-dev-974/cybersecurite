@@ -23,8 +23,11 @@
         - Lamers: il utilise principalement des logiciels pré-conçu a l'effet du hacking informatiques, ne conçois pas eux même des script permetant un hack
 
 # Les différents types de hacking:
-    - human hacking: faire dire des informations ou essayer de récuperer des informations par la parole
-    - applicatif hacking: récuperer des données d'applications web/mobile pour la revente principalement
-    - réseaux hacking: vol de packet qui peux contenir des informations sensible à travers un réseau d'ou l'utilisation des vpn pour crypter nos paquets...
+    - **human hacking**
+        faire dire des informations ou essayer de récuperer des informations par la parole
+    - **applicatif hacking**
+        récuperer des données d'applications web/mobile pour la revente principalement
+    - **réseaux hacking** 
+        vol de packet qui peux contenir des informations sensible à travers un réseau d'ou l'utilisation des vpn pour crypter nos paquets...
     
 # Les régles du hacking éthique
