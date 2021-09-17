@@ -1,9 +1,11 @@
 <table>
 <tr>
+<td>Value 1</td>
     <td>Réferentielle de sécurité</td>
-    <td>Value 1</td>
+    
 </tr>
 <tr>
+    <td>Value 2</td>
     <td> 
         <p>Evaluer la criticité des risques liés aux métiers du commanditaire  sur le système d'information.</p>
         <p>Analyser l’architecture d’un système d'information et des protocoles  de sécurité du commanditaire afin d'évaluer les risques de sécurité.</p>
@@ -14,7 +16,7 @@
         <p>Elaborer une stratégie de collecte d'évènement.</p>
         <p>Elaborer une stratégie de collecte d'évènement.</p>
     </td>
-    <td>Value 2</td>
+    
 </tr>
 
 </table>
